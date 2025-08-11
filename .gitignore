@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+# Streamlit
+.streamlit/secrets.toml
+# Data and artifacts
+data/
+*.csv
+*.jsonl
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
